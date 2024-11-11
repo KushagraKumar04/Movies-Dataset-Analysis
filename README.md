@@ -57,5 +57,5 @@ Ensure that you have the following:
 Clone the repository:
 
 ```bash
-git clone[ https://github.com/your-username/movie-data-analysis.git](https://github.com/KushagraKumar04/Movies-Dataset-Analysis)
+git clone https://github.com/kushagrakumar04/movie-data-analysis.git
 cd movie-data-analysis
