@@ -44,3 +44,18 @@ The analysis includes data cleaning, feature engineering, visualizations, and st
 - **NLTK**: For basic Natural Language Processing.
 - **Plotly**: Interactive plots for deeper insights.
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure that you have the following:
+- A Google account to use [Google Colab](https://colab.research.google.com/).
+- Python (if running locally).
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/movie-data-analysis.git
+cd movie-data-analysis
