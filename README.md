@@ -18,7 +18,6 @@ The analysis uses the following datasets:
 
 1. **IMDb Dataset**: Includes information on movies, genres, directors, cast, and user ratings.
 2. **Box Office Mojo**: Provides data on box office performance across regions.
-3. **Rotten Tomatoes**: Contains ratings and audience reviews.
 
 *Datasets can be found in the `data/` folder or accessed via provided links.*
 
