@@ -51,7 +51,7 @@ Ensure that you have the following:
 - A Google account to use [Google Colab](https://colab.research.google.com/).
 - Python (if running locally).
 
-### Installation
+## Installation
 
 Clone the repository:
 
