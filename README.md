@@ -1,6 +1,6 @@
 # 🎬 Movie Data Analysis
 
-Welcome to the **Movie Data Analysis** repository!!! This project focuses on analyzing various aspects of movie datasets, such as box office performance, genre trends, director impacts, and rating distributions. The analysis is conducted in Python using Jupyter Notebooks in Google Colab(Onl).
+Welcome to the **Movie Data Analysis** repository!!! This project focuses on analyzing various aspects of movie datasets, such as box office performance, genre trends, director impacts, and rating distributions. The analysis is conducted in Python using Jupyter Notebooks in Google Colab(O.
 
 ## 📁 Project Structure
 
